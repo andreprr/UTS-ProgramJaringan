@@ -5,4 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/UTS-ProgramJaringanServer.iml" filepath="$PROJECT_DIR$/UTS-ProgramJaringanServer.iml" />
     </modules>
   </component>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UTS-ProgramJaringanClient.iml" filepath="$PROJECT_DIR$/UTS-ProgramJaringanClient.iml" />
+    </modules>
+  </component>
 </project>
